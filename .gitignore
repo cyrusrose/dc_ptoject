@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+/final_sub_v1.csv
+/output.csv
+/Test_fe.csv.gz
+/Train_fe.csv.gz
+
