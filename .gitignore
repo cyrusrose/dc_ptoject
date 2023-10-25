@@ -3,8 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# output files
 /final_sub_v1.csv
 /output.csv
 /Test_fe.csv.gz
 /Train_fe.csv.gz
-
+/catboost_info
